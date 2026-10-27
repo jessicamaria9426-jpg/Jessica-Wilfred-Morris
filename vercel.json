@@ -3,11 +3,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://REPLACE-WITH-YOUR-RENDER-SERVICE.onrender.com/api/:path*"
+      "destination": "https://echo-c-dsa-backend.onrender.com/api/:path*"
     },
     {
       "source": "/media/:path*",
-      "destination": "https://REPLACE-WITH-YOUR-RENDER-SERVICE.onrender.com/media/:path*"
+      "destination": "https://echo-c-dsa-backend.onrender.com/media/:path*"
     }
   ]
 }
